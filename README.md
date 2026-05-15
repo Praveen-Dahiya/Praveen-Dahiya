@@ -1,4 +1,3 @@
-
 # Hi, I'm Praveen Dahiya
 
 I build production-grade backend and AI systems with a focus on reliability, clear APIs, and practical automation.
@@ -41,12 +40,11 @@ I enjoy working close to the product: turning messy workflows into fast, maintai
 
 ## GitHub Stats
 
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen-dahiya&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-dahiya&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/praveen-dahiya?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/praveen-dahiya?label=Stars&style=for-the-badge&color=yellow)
 
 ## Connect
 
 - GitHub: [@praveen-dahiya](https://github.com/praveen-dahiya)
-- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/praveendahiya/)
+- LinkedIn: [praveendahiya](https://www.linkedin.com/in/praveendahiya/)
 
